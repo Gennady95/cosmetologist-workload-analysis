@@ -1,0 +1,9 @@
+pandas>=1.5,<3.0
+numpy>=1.20
+SQLAlchemy>=1.4,<3.0
+firebird-driver>=1.10
+sqlalchemy-firebird>=2.0
+pyTelegramBotAPI>=4.0
+xlsxwriter>=3.0
+python-dotenv>=1.0
+openpyxl>=3.1
